@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class MainClass {
 
 	public static void main(String[] args) throws ParseException {
+		
 		Scanner sc = new Scanner (System.in);
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:ss");
 		
